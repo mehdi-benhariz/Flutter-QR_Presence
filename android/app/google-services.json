@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "105806231015",
+    "firebase_url": "https://project-manager-1978e.firebaseio.com",
+    "project_id": "project-manager-1978e",
+    "storage_bucket": "project-manager-1978e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105806231015:android:510ca5663313e86c38f942",
+        "android_client_info": {
+          "package_name": "com.mehdi.QR_Presence"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105806231015-0ub7ovp37vsns0t2906jtmnjaa08npop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfERMV85ssDWhG8Vv8SN5KUW-jofUQeEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105806231015-0ub7ovp37vsns0t2906jtmnjaa08npop.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105806231015:android:9bfbbc78247e60e238f942",
+        "android_client_info": {
+          "package_name": "com.mehdi.fluttershare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105806231015-0ub7ovp37vsns0t2906jtmnjaa08npop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfERMV85ssDWhG8Vv8SN5KUW-jofUQeEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105806231015-0ub7ovp37vsns0t2906jtmnjaa08npop.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105806231015:android:bbc0e07c9a42ee4638f942",
+        "android_client_info": {
+          "package_name": "com.mehdi.food_delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105806231015-0ub7ovp37vsns0t2906jtmnjaa08npop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfERMV85ssDWhG8Vv8SN5KUW-jofUQeEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105806231015-0ub7ovp37vsns0t2906jtmnjaa08npop.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105806231015:android:6019c92c9f487dfd38f942",
+        "android_client_info": {
+          "package_name": "com.mehdi_bh.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105806231015-0ub7ovp37vsns0t2906jtmnjaa08npop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfERMV85ssDWhG8Vv8SN5KUW-jofUQeEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105806231015-0ub7ovp37vsns0t2906jtmnjaa08npop.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
